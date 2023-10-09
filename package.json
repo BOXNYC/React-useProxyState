@@ -1,0 +1,24 @@
+{
+  "name": "react-useproxystate",
+  "version": "0.1.4",
+  "description": "Experimental React hook which extends the \"setter\" method to an object or array state. useProxyState is esentially  setState() using a Proxy instance as the state default. All property changes to the proxied state triggers a component render.",
+  "main": "useProxyState.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOXNYC/React-useProxyState.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "usestate"
+  ],
+  "author": "Box Creative",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOXNYC/React-useProxyState/issues"
+  },
+  "homepage": "https://github.com/BOXNYC/React-useProxyState#readme"
+}
