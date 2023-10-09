@@ -1,0 +1,6 @@
+:root {
+  --bs-tertiary-bg-rgb: 221, 225, 234 !important;
+}
+.checkout .list-group-item button {
+  display: none;
+}
