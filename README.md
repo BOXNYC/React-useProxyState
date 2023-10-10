@@ -9,3 +9,6 @@ npm install react-useproxystate
 
 ## Demo
 The /toy-store directory is a vite+React project built with only the one hook: useProxyState(). Its a fake E-commerce Toy Store.
+
+## Basic CodeSandbox Demo
+https://codesandbox.io/s/todos-useproxystate-gt4g77
